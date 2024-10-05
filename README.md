@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+一个计算机小白，希望能跟各位前辈学到更多知识
 <!--
 **3290177255/3290177255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
